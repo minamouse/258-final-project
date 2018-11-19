@@ -1,0 +1,6 @@
+.DS_Store
+venv
+chorales
+state
+training_checkpoints
+output
